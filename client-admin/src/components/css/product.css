@@ -1,0 +1,30 @@
+.datatable {
+	border-top: 5px solid ;
+	padding: 29px;
+	background-color: darkslategray;
+    color: aliceblue;
+    margin-left:90px;
+	
+}
+
+.background-detail {
+    width: 100%;
+    height: 1260px;
+    position: relative;
+    background-image: url(https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=067f0b0…);
+    background-size:100%;
+    background-position: center center;
+}
+.beside-detail{
+    float: left;
+    margin-left: 200px;
+}
+.background-detail {
+    width: 100%;
+    height: 1260px;
+    position: relative;
+    background-image: url(https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=067f0b0…);
+    background-size:100%;
+    background-position: center center;
+}
+  
